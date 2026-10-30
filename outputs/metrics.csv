@@ -1,0 +1,7 @@
+,score
+Accuracy,0.9737
+Precision,0.9726
+Recall,0.9861
+F1,0.9793
+ROC-AUC,0.9957
+Repeated CV Accuracy,0.9742
